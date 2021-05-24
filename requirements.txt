@@ -32,7 +32,6 @@ rsa==4.6
 scipy
 six
 tensorboard
-tensorboard-plugin-wit
 tensorflow==2.2.0
 tensorflow-estimator==2.2.0
 termcolor==1.1.0
